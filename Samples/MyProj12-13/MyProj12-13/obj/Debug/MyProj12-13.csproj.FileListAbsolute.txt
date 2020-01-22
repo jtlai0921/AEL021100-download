@@ -1,0 +1,6 @@
+C:\Users\Jean\source\repos\MyProj12-13\MyProj12-13\bin\Debug\MyProj12-13.exe.config
+C:\Users\Jean\source\repos\MyProj12-13\MyProj12-13\bin\Debug\MyProj12-13.exe
+C:\Users\Jean\source\repos\MyProj12-13\MyProj12-13\bin\Debug\MyProj12-13.pdb
+C:\Users\Jean\source\repos\MyProj12-13\MyProj12-13\obj\Debug\MyProj12-13.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\MyProj12-13\MyProj12-13\obj\Debug\MyProj12-13.exe
+C:\Users\Jean\source\repos\MyProj12-13\MyProj12-13\obj\Debug\MyProj12-13.pdb

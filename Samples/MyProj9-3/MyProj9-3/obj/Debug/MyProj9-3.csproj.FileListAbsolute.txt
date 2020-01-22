@@ -1,0 +1,7 @@
+C:\Users\Jean\source\repos\MyProj9-3\MyProj9-3\bin\Debug\MyProj9-3.exe.config
+C:\Users\Jean\source\repos\MyProj9-3\MyProj9-3\bin\Debug\MyProj9-3.exe
+C:\Users\Jean\source\repos\MyProj9-3\MyProj9-3\bin\Debug\MyProj9-3.pdb
+C:\Users\Jean\source\repos\MyProj9-3\MyProj9-3\obj\Debug\MyProj9-3.csprojResolveAssemblyReference.cache
+C:\Users\Jean\source\repos\MyProj9-3\MyProj9-3\obj\Debug\MyProj9-3.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\MyProj9-3\MyProj9-3\obj\Debug\MyProj9-3.exe
+C:\Users\Jean\source\repos\MyProj9-3\MyProj9-3\obj\Debug\MyProj9-3.pdb

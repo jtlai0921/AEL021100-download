@@ -1,0 +1,7 @@
+C:\Users\Jean\source\repos\MyProj6-1\MyProj6-1\bin\Debug\MyProj6-1.exe.config
+C:\Users\Jean\source\repos\MyProj6-1\MyProj6-1\bin\Debug\MyProj6-1.exe
+C:\Users\Jean\source\repos\MyProj6-1\MyProj6-1\bin\Debug\MyProj6-1.pdb
+C:\Users\Jean\source\repos\MyProj6-1\MyProj6-1\obj\Debug\MyProj6-1.csprojResolveAssemblyReference.cache
+C:\Users\Jean\source\repos\MyProj6-1\MyProj6-1\obj\Debug\MyProj6-1.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\MyProj6-1\MyProj6-1\obj\Debug\MyProj6-1.exe
+C:\Users\Jean\source\repos\MyProj6-1\MyProj6-1\obj\Debug\MyProj6-1.pdb

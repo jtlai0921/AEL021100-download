@@ -1,0 +1,10 @@
+C:\Users\Jean\source\repos\MyProj8-4\MyProj8-4\bin\Debug\MyProj8-4.exe.config
+C:\Users\Jean\source\repos\MyProj8-4\MyProj8-4\bin\Debug\MyProj8-4.exe
+C:\Users\Jean\source\repos\MyProj8-4\MyProj8-4\bin\Debug\MyProj8-4.pdb
+C:\Users\Jean\source\repos\MyProj8-4\MyProj8-4\obj\Debug\MyProj8-4.csprojResolveAssemblyReference.cache
+C:\Users\Jean\source\repos\MyProj8-4\MyProj8-4\obj\Debug\MyProj8_4.Form1.resources
+C:\Users\Jean\source\repos\MyProj8-4\MyProj8-4\obj\Debug\MyProj8_4.Properties.Resources.resources
+C:\Users\Jean\source\repos\MyProj8-4\MyProj8-4\obj\Debug\MyProj8-4.csproj.GenerateResource.Cache
+C:\Users\Jean\source\repos\MyProj8-4\MyProj8-4\obj\Debug\MyProj8-4.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\MyProj8-4\MyProj8-4\obj\Debug\MyProj8-4.exe
+C:\Users\Jean\source\repos\MyProj8-4\MyProj8-4\obj\Debug\MyProj8-4.pdb

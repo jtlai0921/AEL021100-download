@@ -1,0 +1,7 @@
+C:\Users\Jean\source\repos\MyProj3-3\MyProj3-3\bin\Debug\MyProj3-3.exe.config
+C:\Users\Jean\source\repos\MyProj3-3\MyProj3-3\bin\Debug\MyProj3-3.exe
+C:\Users\Jean\source\repos\MyProj3-3\MyProj3-3\bin\Debug\MyProj3-3.pdb
+C:\Users\Jean\source\repos\MyProj3-3\MyProj3-3\obj\Debug\MyProj3-3.csprojResolveAssemblyReference.cache
+C:\Users\Jean\source\repos\MyProj3-3\MyProj3-3\obj\Debug\MyProj3-3.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\MyProj3-3\MyProj3-3\obj\Debug\MyProj3-3.exe
+C:\Users\Jean\source\repos\MyProj3-3\MyProj3-3\obj\Debug\MyProj3-3.pdb

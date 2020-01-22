@@ -1,0 +1,9 @@
+C:\Users\Jean\source\repos\MyProj3-1e\MyProj3-1e\bin\Debug\MyProj3-1e.exe.config
+C:\Users\Jean\source\repos\MyProj3-1e\MyProj3-1e\bin\Debug\MyProj3-1e.exe
+C:\Users\Jean\source\repos\MyProj3-1e\MyProj3-1e\bin\Debug\MyProj3-1e.pdb
+C:\Users\Jean\source\repos\MyProj3-1e\MyProj3-1e\obj\Debug\MyProj3_1e.Form1.resources
+C:\Users\Jean\source\repos\MyProj3-1e\MyProj3-1e\obj\Debug\MyProj3_1e.Properties.Resources.resources
+C:\Users\Jean\source\repos\MyProj3-1e\MyProj3-1e\obj\Debug\MyProj3-1e.csproj.GenerateResource.Cache
+C:\Users\Jean\source\repos\MyProj3-1e\MyProj3-1e\obj\Debug\MyProj3-1e.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\MyProj3-1e\MyProj3-1e\obj\Debug\MyProj3-1e.exe
+C:\Users\Jean\source\repos\MyProj3-1e\MyProj3-1e\obj\Debug\MyProj3-1e.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jean\source\repos\MyProj13-1\MyProj13-1\bin\Debug\MyProj13-1.exe.config
+C:\Users\Jean\source\repos\MyProj13-1\MyProj13-1\bin\Debug\MyProj13-1.exe
+C:\Users\Jean\source\repos\MyProj13-1\MyProj13-1\bin\Debug\MyProj13-1.pdb
+C:\Users\Jean\source\repos\MyProj13-1\MyProj13-1\obj\Debug\MyProj13-1.csprojResolveAssemblyReference.cache
+C:\Users\Jean\source\repos\MyProj13-1\MyProj13-1\obj\Debug\MyProj13-1.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\MyProj13-1\MyProj13-1\obj\Debug\MyProj13-1.exe
+C:\Users\Jean\source\repos\MyProj13-1\MyProj13-1\obj\Debug\MyProj13-1.pdb

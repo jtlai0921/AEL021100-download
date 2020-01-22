@@ -1,0 +1,7 @@
+C:\Users\Jean\source\repos\Hello2\Hello2\bin\Debug\Hello2.exe.config
+C:\Users\Jean\source\repos\Hello2\Hello2\bin\Debug\Hello2.exe
+C:\Users\Jean\source\repos\Hello2\Hello2\bin\Debug\Hello2.pdb
+C:\Users\Jean\source\repos\Hello2\Hello2\obj\Debug\Hello2.csprojResolveAssemblyReference.cache
+C:\Users\Jean\source\repos\Hello2\Hello2\obj\Debug\Hello2.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\Hello2\Hello2\obj\Debug\Hello2.exe
+C:\Users\Jean\source\repos\Hello2\Hello2\obj\Debug\Hello2.pdb
